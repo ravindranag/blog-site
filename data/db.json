@@ -1,0 +1,76 @@
+{
+  "blogs": [
+    {
+      "id": 3,
+      "title": "Title 3",
+      "author": "Crystal",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "title": "Swadesh ",
+      "body": "Bitch ass nigga",
+      "author": "Yoshi",
+      "id": 5
+    },
+    {
+      "title": "Aryan",
+      "body": "Charmander",
+      "author": "Crystal",
+      "id": 6
+    },
+    {
+      "title": "Aryan 2",
+      "body": "Charmander 2",
+      "author": "Yoshi",
+      "id": 7
+    },
+    {
+      "title": "Aryan ",
+      "body": "Charmander ",
+      "author": "Yoshi",
+      "id": 8
+    },
+    {
+      "title": "Swadesh story",
+      "body": "Hi im swades\ni do boom baam\npero genshin impact\nhikiri dokiri\nhuehue bye",
+      "author": "Mario",
+      "id": 10
+    },
+    {
+      "title": "rvddd",
+      "body": "hiiss ddjishdi",
+      "author": "Mario",
+      "id": 11
+    },
+    {
+      "title": "Gipsy",
+      "body": "Big Daddy",
+      "author": "Yoshi",
+      "id": 12
+    },
+    {
+      "title": "Sachhi",
+      "body": "big guy fulll gym boi",
+      "author": "Mario",
+      "id": 13
+    },
+    {
+      "title": "Dumbi",
+      "body": "dssdfghjlqwertyuiopkjhgfdsaxcvbnm",
+      "author": "Yoshi",
+      "id": 14
+    },
+    {
+      "title": "Swades new blog",
+      "body": "Hi gaiz welcom to mi chanel",
+      "author": "Crystal",
+      "id": 15
+    },
+    {
+      "title": "boom boom",
+      "body": "qwertyuiop asdfghjkl zxcvbnm",
+      "author": "Yoshi",
+      "id": 16
+    }
+  ]
+}
