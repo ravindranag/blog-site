@@ -44,7 +44,7 @@ const BlogDetails = () => {
                     <h1>{blog.title}</h1>
                     <p>Written by {blog.author}</p>
                     <p className="blog-body">{blog.body}</p>
-                    <button onClick={handleDelete}>Delete</button>
+                    {/* <button onClick={handleDelete}>Delete</button> */}
                 </div> 
             )}
             { (isPending === false) && (blog === null) && (<NotFound />)}
