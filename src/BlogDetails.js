@@ -1,13 +1,13 @@
-import { useContext } from "react";
-import { useHistory, useParams } from "react-router-dom/cjs/react-router-dom.min";
+// import { useContext } from "react";
+import { useParams } from "react-router-dom/cjs/react-router-dom.min";
 import NotFound from "./NotFound";
 import useFetch from "./useFetch";
-import { doc, deleteDoc } from "firebase/firestore";
-import { dbContext } from "./App";
+// import { doc, deleteDoc } from "firebase/firestore";
+// import { dbContext } from "./App";
 
 
 const BlogDetails = () => {
-    const db = useContext(dbContext);
+    // const db = useContext(dbContext);
     const { id } = useParams();
     const { data, isPending, error} = useFetch();
     // console.log(typeof blog);
@@ -19,7 +19,7 @@ const BlogDetails = () => {
         }
     }
     // console.log(blog);
-    const history = useHistory();
+    // const history = useHistory();
 
     // const handleDelete = () => {
     //     fetch('http://localhost:8000/blogs/' + blog.id, {
@@ -29,11 +29,11 @@ const BlogDetails = () => {
     //     });
     // };
 
-    const handleDelete = () => {
-        deleteDoc(doc(db, "blogs", blog.id));
-        history.push('/');
-        alert('Blog deleted!');
-    };
+    // const handleDelete = () => {
+    //     deleteDoc(doc(db, "blogs", blog.id));
+    //     history.push('/');
+    //     alert('Blog deleted!');
+    // };
 
     return ( 
         <div className="BlogDetails">
